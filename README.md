@@ -41,21 +41,22 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 
 ## Schematic Diagram
 ### 1. Schematic of 1-Bit Full Adder:
-![Screenshot 2025-03-29 113851](https://github.com/user-attachments/assets/42ed6ccd-5e17-40f6-99d2-ab885b692388)
-
-![image](https://github.com/user-attachments/assets/1a962018-9d6b-4246-ab5f-424602551e87)
+![WhatsApp Image 2025-04-11 at 14 38 27_958bf557](https://github.com/user-attachments/assets/3fb4ebeb-14c3-401f-ac8d-47c07b84ff98)
 
 
-
-## Output
-### Transient Analysis Output:
-![image](https://github.com/user-attachments/assets/e0108848-fbf5-446a-8dcc-00cdddef2cb9)
-
-![Screenshot 2025-03-29 113729](https://github.com/user-attachments/assets/92688484-9563-41be-9af7-e92e8d00fce7)
+### 2. transient response setup:
+![WhatsApp Image 2025-04-11 at 14 38 26_e68671a5](https://github.com/user-attachments/assets/632433ab-7c6b-492a-9e96-4391fb37f645)
 
 
+### 3. Transient Analysis Output:
+![WhatsApp Image 2025-04-11 at 14 38 26_db07d840](https://github.com/user-attachments/assets/332ab1c1-c887-432b-99dd-b05a0388c804)
 
-## Results
+
+### 4.output:
+![WhatsApp Image 2025-04-11 at 14 39 33_c97af7d8](https://github.com/user-attachments/assets/3a573cf6-6a91-4464-ab96-5de97e328f12)
+
+
+## Results:
 1. Successfully designed the **1-bit Full Adder** schematic using **Cadence Virtuoso**.
 2. Performed **transient analysis**, verifying the correct operation of the **Full Adder**.
 3. Observed **correct logic switching behavior** in response to input signals.
